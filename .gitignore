@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.cache/
+*.bin
+*.safetensors
+captioned_images/
+*.jpg
+*.png
+.env
